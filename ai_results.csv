@@ -1,0 +1,51 @@
+PubmedID,Title,Publication Date,Non-academic Author(s),Company Affiliation(s),Corresponding Author Email
+40660187,Advancing shock prediction: leveraging prior knowledge and self-controlled data for enhanced model accuracy and generalizability.,2025-Jul-14,Po-Tsun Kuo; Xiu-Rong Huang,"Advantech Co., Ltd., Taipei, Taiwan.",N/A
+40659716,Will AI become our Co-PI?,2025-Jul-14,,,N/A
+40658484,Novel Immersive Emergency Training Module to Enhance Clinical Competency in Nephrology.,2025-Jul-14,,,N/A
+40647646,"Emerging Diagnostic Approaches for Musculoskeletal Disorders: Advances in Imaging, Biomarkers, and Clinical Assessment.",2025-Jun-27,,,N/A
+40639931,Rethinking artificial intelligence in medicine: from tools to agents.,2025-Jun-01,,,N/A
+40639153,Retrieval-based adaptive fusion strategy for medical report generation.,2025-Jul-05,,,N/A
+40634659,Large language models-enabled digital twins for precision medicine in rare gynecological tumors.,2025-Jul-09,,,N/A
+40634300,Clinical impact of pharmacogenetic risk variants in a large chinese cohort.,2025-Jul-09,,,N/A
+40628696,Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge.,2025-Jul-08,Jason Martin; Brandon Edwards; Micah Sheller; Alexey Gruzdev; Patrick Foley; Olubunmi Odafe-Oyibotha; Prashant Shah,"Intel Corporation, Santa Clara, CA, USA.; Clinix Healthcare, Lagos, Lagos, Nigeria.",N/A
+40624389,Radiographic Bone Texture Analysis using Deep Learning Models for Early Rheumatoid Arthritis Diagnosis.,2025-Jul-07,,,N/A
+40620825,JuryFusionNet: a Condorcet's jury theorem-based CNN ensemble for enhanced monkeypox detection from skin lesion images.,2025-Dec-01,,,N/A
+40619947,Macrophage-targeted emodin nanomaterials for effective acute pancreatitis treatment <i>via</i> modulation of the JNK pathway.,2025-Jul-07,,,N/A
+40617062,DDintensity: Addressing imbalanced drug-drug interaction risk levels using pre-trained deep learning model embeddings.,2025-Jul-01,,,N/A
+40617061,Uncovering the genetic basis of glioblastoma heterogeneity through multimodal analysis of whole slide images and RNA sequencing data.,2025-Jun-26,,,N/A
+40615772,Accuracy and Reliability of ChatGPT in Answering Patient Questions About Lung Cancer and Its Surgery: An Expert Panel Evaluation by Thoracic Surgeons.,2025-Jul-04,,,N/A
+40614372,ContraDTI: Improved drug-target interaction prediction via multi-view contrastive learning.,2025-Jun-25,,,N/A
+40612853,Evaluating AI-Generated Patient Education Guides: A Comparative Study of ChatGPT and Deepseek.,2025-Jun-01,,,N/A
+40612527,"The SmartNTx-study: a prospective, randomized controlled trial to investigate additional interventional telemedical management versus standard aftercare in kidney transplant recipients.",2025-01-01,,,N/A
+40612384,DeepSeek vs. ChatGPT: prospects and challenges.,2025-01-01,,,N/A
+40605794,Fine-Grained Classification of Pressure Ulcers and Incontinence-Associated Dermatitis Using Multimodal Deep Learning: Algorithm Development and Validation Study.,2025-May-01,Michael Aleithe,"Sciendis GmbH, Leipzig, Germany.",N/A
+40602231,Zero- and few-shot Named Entity Recognition and Text Expansion in medication prescriptions using large language models.,2025-Sep-01,,,N/A
+40602230,GraphCF: Drug-target interaction prediction via multi-feature fusion with contrastive graph neural network.,2025-Sep-01,,,N/A
+40601392,Open Digital Reference Materials Unchain Controlled Substance Analysis.,2025-Jul-02,,,N/A
+40600083,Artificial Intelligence in Peripheral Artery Disease Education: A Battle Between ChatGPT and Google Gemini.,2025-Jun-01,,,N/A
+40599185,Application of artificial intelligence in portal hypertension and esophagogastric varices.,2025-Jun-28,,,N/A
+40598248,Nursing-centered development of an AI-based decision support system in pressure ulcer and incontinence-associated dermatitis management - a mixed methods study.,2025-Jul-01,Michael Aleithe,"sciendis GmbH, Leipzig, Germany.",N/A
+40597846,Deep learning for automated segmentation of radiation-induced changes in cerebral arteriovenous malformations following radiosurgery.,2025-Jul-01,,,N/A
+40595262,"Integrative bioinformatics frameworks for abdominal aortic aneurysm using GWAS meta-analysis, biological network construction, and structural modeling.",2025-Jul-01,,,N/A
+40593635,Distinct subnetworks of the mouse anterior thalamic nuclei.,2025-Jul-01,,,N/A
+40592111,USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI.,2025-Jun-23,,,N/A
+40592053,Discovering multiple antibiotic resistance phenotypes using diverse top-k subgroup list discovery.,2025-Sep-01,,,N/A
+40588674,International partnership for governing generative artificial intelligence models in medicine.,2025-Jun-30,,,N/A
+40587926,A prior knowledge-supervised fusion network predicts survival after radiotherapy in patients with advanced gastric cancer.,2025-Sep-01,,,N/A
+40585181,KD_MultiSucc: incorporating multi-teacher knowledge distillation and word embeddings for cross-species prediction of protein succinylation sites.,2025-01-01,,,N/A
+40585149,Multicenter Evaluation of Myocardial Flow Reserve as a Prognostic Marker for Mortality in <sup>13</sup>N-Ammonia PET Myocardial Perfusion Imaging.,2025-Jun-25,,,N/A
+40585138,AI-based Hepatic Steatosis Detection and Integrated Hepatic Assessment from Cardiac CT Attenuation Scans Enhances All-cause Mortality Risk Stratification: A Multi-center Study.,2025-Jun-11,,,N/A
+40585081,AI-based identification of patients who benefit from revascularization: a multicenter study.,2025-Jun-12,,,N/A
+40584874,Simulating dynamic tumor contrast enhancement in breast MRI using conditional generative adversarial networks.,2025-Nov-01,,,N/A
+40582254,Online continuous learning of users suicidal risk on social media.,2025-Sep-01,,,N/A
+40579673,Direct Lineage Reprogramming of Fibroblasts into Functional Keratinocyte-Like Cells via BMI1 and FGFR2b for Diabetic Wound Repair.,2025-Jun-28,Yuhuai Hu,"Yuhong Pharmaceutical Technology Co. Ltd, Hangzhou, 310000, Zhejiang, China. huyuhuai1218@zju.edu.cn.",huyuhuai1218@zju.edu.cn
+40579214,"Artificial intelligence in cardiovascular imaging: risks, mitigations and the path to safe implementation.",2025-Jun-27,,,N/A
+40578848,Using technology acceptance model to explore physicians' perspectives of clinical decision support system alerts.,2025-Jun-26,,,N/A
+40578406,Autophagy-dependent hepatocyte apoptosis mediates gilteritinib-induced hepatotoxicity.,2025-Jul-01,,,N/A
+40577946,RobustEMD: Domain robust matching for cross-domain few-shot medical image segmentation.,2025-Sep-01,,,N/A
+40577945,Your turn: At home turning angle estimation for Parkinson's disease severity assessment.,2025-Sep-01,,,N/A
+40573344,"Mpox 2022 to 2025 Update: A Comprehensive Review on Its Complications, Transmission, Diagnosis, and Treatment.",2025-May-25,,,N/A
+40571370,From Sim to Treat in Twenty Minutes With Your Artificial Intelligence Copilot.,2025-Jul-15,,,N/A
+40568609,Global Artificial Intelligence Arms Race: The Future of Artificial Intelligence in Medicine.,2025-Jun-01,,,N/A
+40567628,Adaptive regularized spectral reduction for stabilizing ill-conditioned bone-conducted speech signals.,2025-01-01,,,N/A
+40564471,AI-Powered Spectral Imaging for Virtual Pathology Staining.,2025-Jun-15,,,N/A
