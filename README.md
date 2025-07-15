@@ -117,6 +117,8 @@ Fetch with all options:
 poetry run get-papers-list "machine learning in drug discovery" -f output.csv -d
 ```
 
+- Here we used `poetry run get-papers-list "cancer therapy" -f output.csv -d` command to generate `output.csv` attached in the project directory .
+
 ---
 
 ## Output Format
@@ -192,6 +194,7 @@ All tests are located in `tests/test_fetcher.py` and use mocking to avoid real A
 * This project uses [Biopython](https://biopython.org/) to interact with the Entrez API.
 * Dependencies and CLI are fully managed with [Poetry](https://python-poetry.org/).
 * The CLI entry point is exposed as `get-papers-list` via Poetry's `[tool.poetry.scripts]`.
+* I used chatGPT in most of the part of the project - [Promt Link](https://chatgpt.com/share/68761a16-afb8-8004-af6c-12d79ea273e9)
 
 ---
 
@@ -201,4 +204,3 @@ All tests are located in `tests/test_fetcher.py` and use mocking to avoid real A
 - M.Tech (CSE), IIIT-Delhi
 - Email: [gkdey.cse@gmail.com](mailto:gkdey.cse@gmail.com) Or [gour24035@iiitd.ac.in](mailto:gour24035@iiitd.ac.in)
 
-```
